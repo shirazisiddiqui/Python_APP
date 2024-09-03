@@ -5,3 +5,5 @@ I have also included icons for a better understanding of the weather conditions 
 I have taken all icons from visual crossing only and attached all icon's images in this repository. 
 To run this weather app, please make sure to download all icons and change the icon path name from line number 62 to 67 in the weather_app_latest.ipynb file. 
 Also, I have attached a few output window screenshots to see the final output of various cities like Boston, Paris, London and so on.
+I have already hardcoded the API KEY in the app itself.
+Please execute only the Weather_App_latest.ipynb file and enter the city name in the output window to see the weather.
